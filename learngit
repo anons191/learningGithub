@@ -10,3 +10,5 @@ git add puts our files into the staging area
 there are a couple different ways to commit one is git commit -m "commit-message"
 git log gives me a history of commits
 how to group together changes git add the files to the stage area
+git add . will add all of your changes to the staging area
+git checkout <commit hash> lets you go back to a previous commit
