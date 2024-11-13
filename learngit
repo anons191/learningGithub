@@ -1,0 +1,8 @@
+Git is a distributed version control sytem
+Allows you to track changes over multiple devices and make changes
+repositories are the containers for git
+you need to intialize a reposirtory inorder to use git we use git init to do this
+we can see the git folder using ls -a to se hidden folders or on powershell ls -force
+now there is a .git folder
+The next command to become familiar with is git status
+There are two steps to comitting we have to select files into the staging area and than from the staging area we commit
