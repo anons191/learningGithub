@@ -6,3 +6,7 @@ we can see the git folder using ls -a to se hidden folders or on powershell ls -
 now there is a .git folder
 The next command to become familiar with is git status
 There are two steps to comitting we have to select files into the staging area and than from the staging area we commit
+git add puts our files into the staging area
+there are a couple different ways to commit one is git commit -m "commit-message"
+git log gives me a history of commits
+how to group together changes git add the files to the stage area
