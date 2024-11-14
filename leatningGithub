@@ -1,2 +1,8 @@
 Github is different from Git
 Github is what allows us to share our repositories with team members, we can publish stuff online and we can collaborate with teamates around the world
+
+in order to get our our git saved code to github we first need to make new repository
+
+we do that by adding a remote with teh command git remote add orgin <repository url>
+
+git remote -v will list the remotes i have 
