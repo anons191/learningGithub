@@ -12,3 +12,6 @@ git log gives me a history of commits
 how to group together changes git add the files to the stage area
 git add . will add all of your changes to the staging area
 git checkout <commit hash> lets you go back to a previous commit
+we can switch branches with git checkout <branch>
+git branch <new branch name >
+Yo can merge branches with the command git merg <branch name>
