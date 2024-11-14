@@ -6,3 +6,17 @@ in order to get our our git saved code to github we first need to make new repos
 we do that by adding a remote with teh command git remote add orgin <repository url>
 
 git remote -v will list the remotes i have 
+afte you setup the remote you have to use git push -u nameOFRemote nameOFBranch
+
+after you set up the remote you can continuously push new code
+
+we can pull from repositories git pull nameOfRemote nameOfBranch
+
+we can clone repositories by
+do not clone a repository into another 
+
+git clone urlOfWhatIsCloned
+
+forking a repository makes you your own on github
+
+we clone our fork
